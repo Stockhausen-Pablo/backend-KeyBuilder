@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backend-keybuilder", "backend-keybuilder.csproj", "{B8D7D0E4-6EB1-4E43-90D5-EB9B33F94053}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardComponentCatalog", "src\KeyboardComponentCatalog\KeyboardComponentCatalog.csproj", "{8C3B3211-DFC6-45AB-9ED2-5028B415519E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +12,16 @@ Global
 		{B8D7D0E4-6EB1-4E43-90D5-EB9B33F94053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8D7D0E4-6EB1-4E43-90D5-EB9B33F94053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8D7D0E4-6EB1-4E43-90D5-EB9B33F94053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3B3211-DFC6-45AB-9ED2-5028B415519E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3B3211-DFC6-45AB-9ED2-5028B415519E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3B3211-DFC6-45AB-9ED2-5028B415519E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3B3211-DFC6-45AB-9ED2-5028B415519E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {176F0C16-2751-4962-B9AE-DF8D81BBF5DF}
+	EndGlobalSection
+
 EndGlobal
